@@ -654,7 +654,7 @@
             <div class="testimonials" id="testimonials">
                 <div class="testimonial">
                     <div class="rating">★★★★★</div>
-                    <p>"Fast shipping and excellent customer support by our Delivery agents. The product exceeded my expectations!"</p>
+                    <p>"Fast shipping and excellent customer support by our Delivery agents. The product exceeded my expectations!!"</p>
                     <div style="display:flex;align-items:center;gap:10px">
                         <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=80&q=80" alt="avatar" style="width:40px;height:40px;border-radius:50%;object-fit:cover">
                         <div>
